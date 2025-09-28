@@ -34,10 +34,15 @@ Ola Ride Insights is a data analytics project aimed at understanding ride patter
 ## 📂 Project Structure  
 📦 ola-ride-insights
  ┣ 📂 data              # Raw and cleaned datasets
+ 
  ┣ 📂 notebooks         # Jupyter notebooks for analysis
+ 
  ┣ 📂 reports           # PDF reports and business summaries
+ 
  ┣ 📂 dashboards        # Power BI / Streamlit dashboards
+ 
  ┣ README.md            # Project documentation
+ 
  ┗ requirements.txt     # Python dependencies
 
  ## 🚀 Getting Started
